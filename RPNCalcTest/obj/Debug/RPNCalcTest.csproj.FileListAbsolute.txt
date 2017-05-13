@@ -1,0 +1,7 @@
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\obj\Debug\RPNCalcTest.csprojResolveAssemblyReference.cache
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\bin\Debug\RPNCalcTest.exe
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\bin\Debug\RPNCalcTest.pdb
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\bin\Debug\nunit.framework.dll
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\bin\Debug\nunit.framework.xml
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\obj\Debug\RPNCalcTest.exe
+C:\Users\akhandel\Documents\Visual Studio 2015\Projects\RPNCalcTest\RPNCalcTest\obj\Debug\RPNCalcTest.pdb
